@@ -1,0 +1,216 @@
+*{
+    margin: 0;
+}
+header{
+    height: 800px;
+    width: 1600px;
+    background-image: url('images/banner/banner2.png');
+    background-repeat: no-repeat;
+    /* background-size: 800px 1600px; */
+    
+}
+.header{
+    padding-top: 216px ;
+    padding-left: 845px;
+    padding-right: 230px;
+    font-family: 'Work Sans';
+    font-style: normal;
+     font-weight: 700;
+     font-size: 65px;
+     text-align: right;
+     color: #151414;
+     
+
+}
+header .description{
+    padding-left: 876px;
+    padding-top: 24px;
+    padding-right: 230px;
+    text-align: right;
+    color: #444343;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+#first-submit{
+    color: aliceblue;
+  
+    margin-left: 1210px;
+    margin-top: 32px;
+    margin-right: 230px;
+    background-color: #F15B22;
+    border-radius: 5px;
+    border-color: #F15B22;
+  
+    padding:10px 8px;
+    text-align: center
+    
+}
+.first-section img{
+    margin-left: 206px;
+    margin-top: 130px;
+}
+.first-section{
+    display: flex;
+    gap: 87px;
+    margin-bottom: 130px;
+    }
+.instuction-title{
+    margin-left: 80px;
+    margin-top: 370px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.instruction p{
+    margin-left: 80px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 16px;
+
+}
+#ladies{
+    background-color: #F15B22;
+    border-radius:800px;
+   
+}
+.list-comments{
+    margin-left: 80px;
+    list-style: none;
+    list-style-image: url('images/check-mark.png');
+    
+  }
+
+.second-section-title{
+    margin-left: 711px;
+    margin-bottom: 50px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    
+}
+
+.web{
+    text-align: center;
+    display: block;
+    margin-left: 150px;
+}
+.java{
+    text-align: center;
+    display: block;
+}
+.smoke{
+    text-align: center;   
+    display: block;
+}
+.ecom{
+    text-align: center;
+    display: block;
+    column-gap: 16px;
+   
+}
+
+.job-title{
+    display:flex;
+     font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+}
+.second-section{
+    display:flex;
+    gap: 250px;
+}
+.third-section{
+    background-image: url('images/gradient2.png'),url('images/watch.png');
+    height: 300px;
+    width: 1140px;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: 125px;
+    }
+.third-section ul{
+    list-style: none;
+}
+.third-section ul h3{
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700; 
+    font-size: 40px;
+    padding-top: 59px;
+    padding-right: 617px;
+    padding-left: 64px;
+}
+.third-section ul button{
+    font-size: large;
+    margin-top: 24px;
+    margin-left: 64px;
+    color: #F15B22;
+    padding:8px 20px;
+    
+}
+footer{
+    color: #FFFFFF;
+    margin-top: 130px;
+    display: flex;
+    
+    background-color: #151414;
+    height: 577px;
+    width: 1600px;
+}
+form{
+    
+    margin-left:250px ;
+    margin-top: 130px;
+}
+.contacts{
+    margin-left: 230px;
+    margin-top: 130px;
+    width: 485px;
+    
+}
+.contacts h2{
+    margin-bottom: 16px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+}
+form h3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 31px;
+}
+#email{
+    color: #FFFFFF;
+    background-color: black;
+    width: 325px;
+    height: 64px;
+    text-align: center;
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+    margin-bottom: 16px;
+    
+}
+.social-links{
+    display: flex;
+    gap: 24px;
+}
+#subscribe{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    border-radius: 5px;
+    padding: 15px 50px;
+}
